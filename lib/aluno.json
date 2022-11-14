@@ -1,0 +1,82 @@
+{
+  "alunos": [
+    {
+      "id": "1",
+      "nome": "Wenderson",
+      "idade": 39,
+      "nomeCursos": [
+        "Academia do flutter",
+        "Imersao getx"
+      ],
+      "cursos": [
+        {
+          "id": 1,
+          "nome": "Academia do flutter",
+          "isAluno": true
+        },
+        {
+          "id": 2,
+          "nome": "Imersao getx",
+          "isAluno": false
+        },
+        {
+          "id": 3,
+          "nome": "Academia do flutter",
+          "isAluno": true
+        }
+      ],
+      "endereco": {
+        "rua": "Santa fe",
+        "numero": 200,
+        "CEP": "15043060",
+        "telefone": {
+          "ddd": 11,
+          "telefone" : "98986535"
+        },
+        "cidade": {
+          "id": 1,
+          "nome": "São José do Rio Preto"
+        }
+      }
+    },
+    {
+      "id": "2",
+      "nome": "Aline",
+      "idade": 42,
+      "nomeCursos": [
+        "Academia do flutter",
+        "Imersao getx"
+      ],
+      "cursos": [
+        {
+          "id": 1,
+          "nome": "Academia do flutter",
+          "isAluno": true
+        },
+        {
+          "id": 2,
+          "nome": "Imersao getx",
+          "isAluno": false
+        },
+        {
+          "id": 3,
+          "nome": "Academia do flutter",
+          "isAluno": true
+        }
+      ],
+      "endereco": {
+        "rua": "Vera",
+        "numero": 200,
+        "CEP": "15043060",
+        "telefone": {
+          "ddd": 11,
+          "telefone" : "98986535"
+        },
+        "cidade": {
+          "id": 1,
+          "nome": "São José do Rio Preto"
+        }
+      }
+    }
+  ]
+}
